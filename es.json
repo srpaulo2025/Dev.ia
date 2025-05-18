@@ -1,0 +1,62 @@
+{
+  "heroDescription": "Genera ideas, conceptos y diseños para tus proyectos en segundos utilizando el poder de la Inteligencia Artificial.",
+  "categoriesTitle": "Elige una categoría para comenzar",
+  "categories": {
+    "game": {
+      "title": "Crear Juego",
+      "description": "Desarrolla conceptos de juegos completos con historia, personajes, mecánicas y progresión."
+    },
+    "app": {
+      "title": "Crear App",
+      "description": "Diseña aplicaciones innovadoras con funcionalidades útiles, flujo de usuario y propuestas de valor."
+    },
+    "character": {
+      "title": "Crear Personaje",
+      "description": "Crea personajes memorables con historias de fondo, personalidad, apariencia y habilidades únicas."
+    },
+    "ui": {
+      "title": "Diseño UI/UX",
+      "description": "Obtén sugerencias de diseño de interfaz y experiencia de usuario para tus aplicaciones y juegos."
+    }
+  },
+  "prompts": {
+    "gameIdea": "Idea de Juego",
+    "gameMechanics": "Mecánicas de Juego",
+    "gameProgression": "Sistema de Progresión",
+    "appIdea": "Idea de App",
+    "appFeatures": "Funcionalidades",
+    "appUserflow": "Recorrido del Usuario",
+    "characterConcept": "Concepto de Personaje",
+    "characterBackstory": "Historia de Origen",
+    "characterAbilities": "Habilidades",
+    "uiMockup": "Maqueta de Interfaz",
+    "uiColorScheme": "Esquema de Colores",
+    "uiUserflow": "Flujo de Interacción"
+  },
+  "customPromptTitle": "O crea tu propio prompt",
+  "customPromptDescription": "Personaliza completamente tu solicitud para la IA según tus necesidades específicas.",
+  "customPromptPlaceholder": "Describe lo que necesitas generar...",
+  "sendButton": "Enviar",
+  "footerText": "DevMind.ia - Herramienta para ideación creativa usando Inteligencia Artificial",
+  "footer": {
+    "about": "Acerca de",
+    "terms": "Términos",
+    "privacy": "Privacidad",
+    "copyright": "© 2023 DevMind.ia - Todos los derechos reservados"
+  },
+  "promptTexts": {
+    "gameIdea": "Crea una idea de juego completa con género, historia, personajes principales y mecánicas de juego. El juego debe tener un concepto único e innovador.",
+    "gameMechanics": "Desarrolla mecánicas de juego detalladas para un juego de [género]. Incluye sistemas de combate, interacción con el entorno, progresión y economía.",
+    "gameProgression": "Crea un sistema de progresión para un juego, incluyendo niveles, habilidades desbloqueables, recompensas y curva de dificultad.",
+    "appIdea": "Sugiere una idea de aplicación innovadora que resuelva un problema real. Incluye propuesta de valor, público objetivo y funcionalidades principales.",
+    "appFeatures": "Enumera y detalla las principales funcionalidades para una aplicación de [categoría]. Describe cómo cada funcionalidad beneficia al usuario.",
+    "appUserflow": "Describe el recorrido del usuario en una aplicación de [categoría], desde el primer uso hasta convertirse en un usuario habitual. Incluye incorporación, interacciones principales y retención.",
+    "characterConcept": "Crea un personaje completo para un juego, incluyendo nombre, edad, apariencia, personalidad, motivaciones y papel en la historia.",
+    "characterBackstory": "Desarrolla una historia de origen detallada para un personaje de juego, incluyendo eventos formativos, relaciones y traumas que moldearon su personalidad actual.",
+    "characterAbilities": "Crea un conjunto de habilidades y poderes únicos para un personaje de juego del género [género]. Incluye habilidades activas, pasivas y definitivas.",
+    "uiMockup": "Describe la interfaz de usuario para un [tipo de aplicación/juego], incluyendo diseño, elementos de UI, esquema de colores y estilo visual general.",
+    "uiColorScheme": "Crea un esquema de colores para un [tipo de aplicación/juego] dirigido a [público objetivo]. Incluye colores primarios, secundarios y de acento con sus códigos hexadecimales.",
+    "uiUserflow": "Detalla el flujo de interacción del usuario para una funcionalidad específica en un [tipo de aplicación/juego], incluyendo pantallas, transiciones y retroalimentación.",
+    "default": "Genera una idea creativa para un proyecto."
+  }
+}

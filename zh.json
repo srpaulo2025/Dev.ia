@@ -1,0 +1,62 @@
+{
+  "heroDescription": "使用人工智能的力量，在几秒钟内为您的项目生成想法、概念和设计。",
+  "categoriesTitle": "选择一个类别开始",
+  "categories": {
+    "game": {
+      "title": "创建游戏",
+      "description": "开发包含故事、角色、机制和进展的完整游戏概念。"
+    },
+    "app": {
+      "title": "创建应用",
+      "description": "设计具有实用功能、用户流程和价值主张的创新应用程序。"
+    },
+    "character": {
+      "title": "创建角色",
+      "description": "创建具有背景故事、个性、外观和独特能力的难忘角色。"
+    },
+    "ui": {
+      "title": "UI/UX设计",
+      "description": "获取应用程序和游戏的界面和用户体验设计建议。"
+    }
+  },
+  "prompts": {
+    "gameIdea": "游戏创意",
+    "gameMechanics": "游戏机制",
+    "gameProgression": "进展系统",
+    "appIdea": "应用创意",
+    "appFeatures": "功能特点",
+    "appUserflow": "用户旅程",
+    "characterConcept": "角色概念",
+    "characterBackstory": "起源故事",
+    "characterAbilities": "能力",
+    "uiMockup": "界面模型",
+    "uiColorScheme": "配色方案",
+    "uiUserflow": "交互流程"
+  },
+  "customPromptTitle": "或创建您自己的提示",
+  "customPromptDescription": "根据您的特定需求完全自定义您的AI请求。",
+  "customPromptPlaceholder": "描述您需要生成的内容...",
+  "sendButton": "发送",
+  "footerText": "DevMind.ia - 使用人工智能的创意构思工具",
+  "footer": {
+    "about": "关于我们",
+    "terms": "条款",
+    "privacy": "隐私",
+    "copyright": "© 2023 DevMind.ia - 保留所有权利"
+  },
+  "promptTexts": {
+    "gameIdea": "创建一个完整的游戏创意，包括类型、故事、主要角色和游戏机制。游戏应该有一个独特而创新的概念。",
+    "gameMechanics": "为[类型]游戏开发详细的游戏机制。包括战斗系统、环境互动、进展和经济。",
+    "gameProgression": "为游戏创建一个进展系统，包括等级、可解锁能力、奖励和难度曲线。",
+    "appIdea": "建议一个解决实际问题的创新应用创意。包括价值主张、目标受众和主要功能。",
+    "appFeatures": "列出并详细说明[类别]应用的主要功能。描述每个功能如何使用户受益。",
+    "appUserflow": "描述[类别]应用中的用户旅程，从首次使用到成为常规用户。包括入门指导、主要互动和留存。",
+    "characterConcept": "为游戏创建一个完整的角色，包括名称、年龄、外观、个性、动机和在故事中的角色。",
+    "characterBackstory": "为游戏角色开发详细的起源故事，包括塑造其当前个性的形成事件、关系和创伤。",
+    "characterAbilities": "为[类型]游戏角色创建一组独特的能力和力量。包括主动、被动和终极能力。",
+    "uiMockup": "描述[应用/游戏类型]的用户界面，包括布局、UI元素、配色方案和整体视觉风格。",
+    "uiColorScheme": "为面向[目标受众]的[应用/游戏类型]创建配色方案。包括带有它们的十六进制代码的主要、次要和强调色。",
+    "uiUserflow": "详细说明[应用/游戏类型]中特定功能的用户交互流程，包括屏幕、过渡和反馈。",
+    "default": "为项目生成创意想法。"
+  }
+}

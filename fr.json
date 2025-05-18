@@ -1,0 +1,62 @@
+{
+  "heroDescription": "Générez des idées, des concepts et des designs pour vos projets en quelques secondes grâce à la puissance de l'Intelligence Artificielle.",
+  "categoriesTitle": "Choisissez une catégorie pour commencer",
+  "categories": {
+    "game": {
+      "title": "Créer un Jeu",
+      "description": "Développez des concepts de jeux complets avec histoire, personnages, mécaniques et progression."
+    },
+    "app": {
+      "title": "Créer une App",
+      "description": "Concevez des applications innovantes avec des fonctionnalités utiles, un flux utilisateur et des propositions de valeur."
+    },
+    "character": {
+      "title": "Créer un Personnage",
+      "description": "Créez des personnages mémorables avec des histoires de fond, une personnalité, une apparence et des capacités uniques."
+    },
+    "ui": {
+      "title": "Design UI/UX",
+      "description": "Obtenez des suggestions de design d'interface et d'expérience utilisateur pour vos applications et jeux."
+    }
+  },
+  "prompts": {
+    "gameIdea": "Idée de Jeu",
+    "gameMechanics": "Mécaniques de Jeu",
+    "gameProgression": "Système de Progression",
+    "appIdea": "Idée d'App",
+    "appFeatures": "Fonctionnalités",
+    "appUserflow": "Parcours Utilisateur",
+    "characterConcept": "Concept de Personnage",
+    "characterBackstory": "Histoire d'Origine",
+    "characterAbilities": "Capacités",
+    "uiMockup": "Maquette d'Interface",
+    "uiColorScheme": "Schéma de Couleurs",
+    "uiUserflow": "Flux d'Interaction"
+  },
+  "customPromptTitle": "Ou créez votre propre prompt",
+  "customPromptDescription": "Personnalisez complètement votre demande à l'IA selon vos besoins spécifiques.",
+  "customPromptPlaceholder": "Décrivez ce que vous avez besoin de générer...",
+  "sendButton": "Envoyer",
+  "footerText": "DevMind.ia - Outil d'idéation créative utilisant l'Intelligence Artificielle",
+  "footer": {
+    "about": "À propos",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "copyright": "© 2023 DevMind.ia - Tous droits réservés"
+  },
+  "promptTexts": {
+    "gameIdea": "Créez une idée de jeu complète avec genre, histoire, personnages principaux et mécaniques de jeu. Le jeu doit avoir un concept unique et innovant.",
+    "gameMechanics": "Développez des mécaniques de jeu détaillées pour un jeu de [genre]. Incluez les systèmes de combat, l'interaction avec l'environnement, la progression et l'économie.",
+    "gameProgression": "Créez un système de progression pour un jeu, incluant niveaux, capacités débloquables, récompenses et courbe de difficulté.",
+    "appIdea": "Suggérez une idée d'application innovante qui résout un problème réel. Incluez la proposition de valeur, le public cible et les fonctionnalités principales.",
+    "appFeatures": "Listez et détaillez les principales fonctionnalités pour une application de [catégorie]. Décrivez comment chaque fonctionnalité bénéficie à l'utilisateur.",
+    "appUserflow": "Décrivez le parcours de l'utilisateur dans une application de [catégorie], depuis la première utilisation jusqu'à devenir un utilisateur régulier. Incluez l'intégration, les interactions principales et la rétention.",
+    "characterConcept": "Créez un personnage complet pour un jeu, incluant nom, âge, apparence, personnalité, motivations et rôle dans l'histoire.",
+    "characterBackstory": "Développez une histoire d'origine détaillée pour un personnage de jeu, incluant les événements formateurs, les relations et les traumatismes qui ont façonné sa personnalité actuelle.",
+    "characterAbilities": "Créez un ensemble de capacités et pouvoirs uniques pour un personnage de jeu du genre [genre]. Incluez des capacités actives, passives et ultimes.",
+    "uiMockup": "Décrivez l'interface utilisateur pour un [type d'application/jeu], incluant la mise en page, les éléments d'UI, le schéma de couleurs et le style visuel général.",
+    "uiColorScheme": "Créez un schéma de couleurs pour un [type d'application/jeu] destiné à [public cible]. Incluez les couleurs primaires, secondaires et d'accentuation avec leurs codes hexadécimaux.",
+    "uiUserflow": "Détaillez le flux d'interaction de l'utilisateur pour une fonctionnalité spécifique dans un [type d'application/jeu], incluant les écrans, les transitions et le feedback.",
+    "default": "Générez une idée créative pour un projet."
+  }
+}

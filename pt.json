@@ -1,0 +1,75 @@
+{
+  "heroDescription": "Gere ideias, conceitos e designs para seus projetos em segundos usando o poder da Inteligência Artificial.",
+  "categoriesTitle": "Escolha uma categoria para começar",
+  "categories": {
+    "game": {
+      "title": "Criar Jogo",
+      "description": "Desenvolva conceitos de jogos completos com história, personagens, mecânicas e progressão."
+    },
+    "app": {
+      "title": "Criar App",
+      "description": "Projete aplicativos inovadores com funcionalidades úteis, fluxo de usuário e propostas de valor."
+    },
+    "character": {
+      "title": "Criar Personagem",
+      "description": "Crie personagens memoráveis com histórias de fundo, personalidade, aparência e habilidades únicas."
+    },
+    "ui": {
+      "title": "Design UI/UX",
+      "description": "Obtenha sugestões de design de interface e experiência de usuário para seus aplicativos e jogos."
+    }
+  },
+  "prompts": {
+    "gameIdea": "Ideia de Jogo",
+    "gameMechanics": "Mecânicas de Jogo",
+    "gameProgression": "Sistema de Progressão",
+    "appIdea": "Ideia de App",
+    "appFeatures": "Funcionalidades",
+    "appUserflow": "Jornada do Usuário",
+    "characterConcept": "Conceito de Personagem",
+    "characterBackstory": "História de Origem",
+    "characterAbilities": "Habilidades",
+    "uiMockup": "Mockup de Interface",
+    "uiColorScheme": "Esquema de Cores",
+    "uiUserflow": "Fluxo de Interação"
+  },
+  "customPromptTitle": "Ou crie seu próprio prompt",
+  "customPromptDescription": "Personalize completamente sua solicitação para a IA de acordo com suas necessidades específicas.",
+  "customPromptPlaceholder": "Descreva o que você precisa gerar...",
+  "sendButton": "Enviar",
+  "footerText": "DevMind.ia - Ferramenta para ideação criativa usando Inteligência Artificial",
+  "footer": {
+    "about": "Sobre",
+    "terms": "Termos",
+    "privacy": "Privacidade",
+    "copyright": "© 2023 DevMind.ia - Todos os direitos reservados"
+  },
+  "promptTexts": {
+    "gameIdea": "Crie uma ideia de jogo completa com gênero, história, personagens principais e mecânicas de jogo. O jogo deve ter um conceito único e inovador.",
+    "gameMechanics": "Desenvolva mecânicas de jogo detalhadas para um jogo de [gênero]. Inclua sistemas de combate, interação com o ambiente, progressão e economia.",
+    "gameProgression": "Crie um sistema de progressão para um jogo, incluindo níveis, habilidades desbloqueáveis, recompensas e curva de dificuldade.",
+    "appIdea": "Sugira uma ideia de aplicativo inovador que resolva um problema real. Inclua proposta de valor, público-alvo e funcionalidades principais.",
+    "appFeatures": "Liste e detalhe as principais funcionalidades para um aplicativo de [categoria]. Descreva como cada funcionalidade beneficia o usuário.",
+    "appUserflow": "Descreva a jornada do usuário em um aplicativo de [categoria], desde o primeiro uso até se tornar um usuário regular. Inclua onboarding, interações principais e retenção.",
+    "characterConcept": "Crie um personagem completo para um jogo, incluindo nome, idade, aparência, personalidade, motivações e papel na história.",
+    "characterBackstory": "Desenvolva uma história de origem detalhada para um personagem de jogo, incluindo eventos formadores, relacionamentos e traumas que moldaram sua personalidade atual.",
+    "characterAbilities": "Crie um conjunto de habilidades e poderes únicos para um personagem de jogo do gênero [gênero]. Inclua habilidades ativas, passivas e ultimate.",
+    "uiMockup": "Descreva a interface de usuário para um [tipo de aplicativo/jogo], incluindo layout, elementos de UI, esquema de cores e estilo visual geral.",
+    "uiColorScheme": "Crie um esquema de cores para um [tipo de aplicativo/jogo] voltado para [público-alvo]. Inclua cores primárias, secundárias e de destaque com seus códigos hexadecimais.",
+    "uiUserflow": "Detalhe o fluxo de interação do usuário para uma funcionalidade específica em um [tipo de aplicativo/jogo], incluindo telas, transições e feedback.",
+    "default": "Gere uma ideia criativa para um projeto."
+  },
+  "generatingIdea": "Gerando sua ideia...",
+  "pleaseWait": "Por favor, aguarde enquanto nossa IA trabalha na sua ideia",
+  "ideaResult": "Sua ideia está pronta!",
+  "close": "Fechar",
+  "copyToClipboard": "Copiar para área de transferência",
+  "errorTitle": "Erro ao gerar ideia",
+  "genericError": "Ocorreu um erro ao gerar sua ideia",
+  "tryAgainLater": "Por favor, tente novamente mais tarde",
+  "missingApiKey": "Verifique se a chave de API da OpenAI está configurada corretamente",
+  "noApiKeyTitle": "Chave de API não configurada",
+  "noApiKeyMessage": "Para gerar ideias, você precisa configurar sua chave de API da OpenAI",
+  "getApiKey": "Obter uma chave de API",
+  "enterApiKey": "Digite sua chave de API"
+}

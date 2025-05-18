@@ -1,0 +1,62 @@
+{
+  "heroDescription": "Generate ideas, concepts, and designs for your projects in seconds using the power of Artificial Intelligence.",
+  "categoriesTitle": "Choose a category to get started",
+  "categories": {
+    "game": {
+      "title": "Create Game",
+      "description": "Develop complete game concepts with story, characters, mechanics, and progression."
+    },
+    "app": {
+      "title": "Create App",
+      "description": "Design innovative applications with useful features, user flow, and value propositions."
+    },
+    "character": {
+      "title": "Create Character",
+      "description": "Create memorable characters with background stories, personality, appearance, and unique abilities."
+    },
+    "ui": {
+      "title": "UI/UX Design",
+      "description": "Get interface and user experience design suggestions for your applications and games."
+    }
+  },
+  "prompts": {
+    "gameIdea": "Game Idea",
+    "gameMechanics": "Game Mechanics",
+    "gameProgression": "Progression System",
+    "appIdea": "App Idea",
+    "appFeatures": "Features",
+    "appUserflow": "User Journey",
+    "characterConcept": "Character Concept",
+    "characterBackstory": "Origin Story",
+    "characterAbilities": "Abilities",
+    "uiMockup": "Interface Mockup",
+    "uiColorScheme": "Color Scheme",
+    "uiUserflow": "Interaction Flow"
+  },
+  "customPromptTitle": "Or create your own prompt",
+  "customPromptDescription": "Completely customize your AI request according to your specific needs.",
+  "customPromptPlaceholder": "Describe what you need to generate...",
+  "sendButton": "Send",
+  "footerText": "DevMind.ia - Creative ideation tool using Artificial Intelligence",
+  "footer": {
+    "about": "About",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "copyright": "© 2023 DevMind.ia - All rights reserved"
+  },
+  "promptTexts": {
+    "gameIdea": "Create a complete game idea with genre, story, main characters, and game mechanics. The game should have a unique and innovative concept.",
+    "gameMechanics": "Develop detailed game mechanics for a [genre] game. Include combat systems, environment interaction, progression, and economy.",
+    "gameProgression": "Create a progression system for a game, including levels, unlockable abilities, rewards, and difficulty curve.",
+    "appIdea": "Suggest an innovative app idea that solves a real problem. Include value proposition, target audience, and main features.",
+    "appFeatures": "List and detail the main features for a [category] app. Describe how each feature benefits the user.",
+    "appUserflow": "Describe the user journey in a [category] app, from first use to becoming a regular user. Include onboarding, main interactions, and retention.",
+    "characterConcept": "Create a complete character for a game, including name, age, appearance, personality, motivations, and role in the story.",
+    "characterBackstory": "Develop a detailed origin story for a game character, including formative events, relationships, and traumas that shaped their current personality.",
+    "characterAbilities": "Create a set of unique abilities and powers for a [genre] game character. Include active, passive, and ultimate abilities.",
+    "uiMockup": "Describe the user interface for a [type of app/game], including layout, UI elements, color scheme, and overall visual style.",
+    "uiColorScheme": "Create a color scheme for a [type of app/game] aimed at [target audience]. Include primary, secondary, and accent colors with their hexadecimal codes.",
+    "uiUserflow": "Detail the user interaction flow for a specific feature in a [type of app/game], including screens, transitions, and feedback.",
+    "default": "Generate a creative idea for a project."
+  }
+}

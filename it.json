@@ -1,0 +1,62 @@
+{
+  "heroDescription": "Genera idee, concetti e design per i tuoi progetti in pochi secondi utilizzando la potenza dell'Intelligenza Artificiale.",
+  "categoriesTitle": "Scegli una categoria per iniziare",
+  "categories": {
+    "game": {
+      "title": "Crea Gioco",
+      "description": "Sviluppa concetti di giochi completi con storia, personaggi, meccaniche e progressione."
+    },
+    "app": {
+      "title": "Crea App",
+      "description": "Progetta applicazioni innovative con funzionalità utili, flusso utente e proposte di valore."
+    },
+    "character": {
+      "title": "Crea Personaggio",
+      "description": "Crea personaggi memorabili con storie di background, personalità, aspetto e abilità uniche."
+    },
+    "ui": {
+      "title": "Design UI/UX",
+      "description": "Ottieni suggerimenti di design dell'interfaccia e dell'esperienza utente per le tue applicazioni e giochi."
+    }
+  },
+  "prompts": {
+    "gameIdea": "Idea di Gioco",
+    "gameMechanics": "Meccaniche di Gioco",
+    "gameProgression": "Sistema di Progressione",
+    "appIdea": "Idea per App",
+    "appFeatures": "Funzionalità",
+    "appUserflow": "Percorso Utente",
+    "characterConcept": "Concetto di Personaggio",
+    "characterBackstory": "Storia di Origine",
+    "characterAbilities": "Abilità",
+    "uiMockup": "Mockup Interfaccia",
+    "uiColorScheme": "Schema Colori",
+    "uiUserflow": "Flusso di Interazione"
+  },
+  "customPromptTitle": "Oppure crea il tuo prompt",
+  "customPromptDescription": "Personalizza completamente la tua richiesta all'IA in base alle tue esigenze specifiche.",
+  "customPromptPlaceholder": "Descrivi cosa hai bisogno di generare...",
+  "sendButton": "Invia",
+  "footerText": "DevMind.ia - Strumento di ideazione creativa che utilizza l'Intelligenza Artificiale",
+  "footer": {
+    "about": "Chi Siamo",
+    "terms": "Termini",
+    "privacy": "Privacy",
+    "copyright": "© 2023 DevMind.ia - Tutti i diritti riservati"
+  },
+  "promptTexts": {
+    "gameIdea": "Crea un'idea di gioco completa con genere, storia, personaggi principali e meccaniche di gioco. Il gioco dovrebbe avere un concetto unico e innovativo.",
+    "gameMechanics": "Sviluppa meccaniche di gioco dettagliate per un gioco di [genere]. Includi sistemi di combattimento, interazione con l'ambiente, progressione ed economia.",
+    "gameProgression": "Crea un sistema di progressione per un gioco, inclusi livelli, abilità sbloccabili, ricompense e curva di difficoltà.",
+    "appIdea": "Suggerisci un'idea innovativa per un'app che risolva un problema reale. Includi proposta di valore, pubblico target e funzionalità principali.",
+    "appFeatures": "Elenca e dettaglia le principali funzionalità per un'app di [categoria]. Descrivi come ogni funzionalità avvantaggia l'utente.",
+    "appUserflow": "Descrivi il percorso dell'utente in un'app di [categoria], dal primo utilizzo fino a diventare un utente regolare. Includi onboarding, interazioni principali e fidelizzazione.",
+    "characterConcept": "Crea un personaggio completo per un gioco, inclusi nome, età, aspetto, personalità, motivazioni e ruolo nella storia.",
+    "characterBackstory": "Sviluppa una storia di origine dettagliata per un personaggio di un gioco, inclusi eventi formativi, relazioni e traumi che hanno plasmato la sua personalità attuale.",
+    "characterAbilities": "Crea un set di abilità e poteri unici per un personaggio di un gioco di [genere]. Includi abilità attive, passive e definitive.",
+    "uiMockup": "Descrivi l'interfaccia utente per un [tipo di app/gioco], inclusi layout, elementi UI, schema colori e stile visivo generale.",
+    "uiColorScheme": "Crea uno schema colori per un [tipo di app/gioco] rivolto a [pubblico target]. Includi colori primari, secondari e di accento con i loro codici esadecimali.",
+    "uiUserflow": "Dettaglia il flusso di interazione dell'utente per una funzionalità specifica in un [tipo di app/gioco], inclusi schermate, transizioni e feedback.",
+    "default": "Genera un'idea creativa per un progetto."
+  }
+}

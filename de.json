@@ -1,0 +1,62 @@
+{
+  "heroDescription": "Generieren Sie Ideen, Konzepte und Designs für Ihre Projekte in Sekundenschnelle mit der Kraft der Künstlichen Intelligenz.",
+  "categoriesTitle": "Wählen Sie eine Kategorie, um zu beginnen",
+  "categories": {
+    "game": {
+      "title": "Spiel erstellen",
+      "description": "Entwickeln Sie vollständige Spielkonzepte mit Geschichte, Charakteren, Mechaniken und Fortschritt."
+    },
+    "app": {
+      "title": "App erstellen",
+      "description": "Entwerfen Sie innovative Anwendungen mit nützlichen Funktionen, Benutzerfluss und Wertversprechen."
+    },
+    "character": {
+      "title": "Charakter erstellen",
+      "description": "Erschaffen Sie einprägsame Charaktere mit Hintergrundgeschichten, Persönlichkeit, Aussehen und einzigartigen Fähigkeiten."
+    },
+    "ui": {
+      "title": "UI/UX Design",
+      "description": "Erhalten Sie Interface- und Benutzererfahrungsdesign-Vorschläge für Ihre Anwendungen und Spiele."
+    }
+  },
+  "prompts": {
+    "gameIdea": "Spielidee",
+    "gameMechanics": "Spielmechaniken",
+    "gameProgression": "Fortschrittssystem",
+    "appIdea": "App-Idee",
+    "appFeatures": "Funktionen",
+    "appUserflow": "Benutzerreise",
+    "characterConcept": "Charakterkonzept",
+    "characterBackstory": "Ursprungsgeschichte",
+    "characterAbilities": "Fähigkeiten",
+    "uiMockup": "Interface-Mockup",
+    "uiColorScheme": "Farbschema",
+    "uiUserflow": "Interaktionsfluss"
+  },
+  "customPromptTitle": "Oder erstellen Sie Ihren eigenen Prompt",
+  "customPromptDescription": "Passen Sie Ihre KI-Anfrage vollständig an Ihre spezifischen Bedürfnisse an.",
+  "customPromptPlaceholder": "Beschreiben Sie, was Sie generieren möchten...",
+  "sendButton": "Senden",
+  "footerText": "DevMind.ia - Kreatives Ideenfindungstool mit Künstlicher Intelligenz",
+  "footer": {
+    "about": "Über uns",
+    "terms": "Bedingungen",
+    "privacy": "Datenschutz",
+    "copyright": "© 2023 DevMind.ia - Alle Rechte vorbehalten"
+  },
+  "promptTexts": {
+    "gameIdea": "Erstellen Sie eine vollständige Spielidee mit Genre, Geschichte, Hauptcharakteren und Spielmechaniken. Das Spiel sollte ein einzigartiges und innovatives Konzept haben.",
+    "gameMechanics": "Entwickeln Sie detaillierte Spielmechaniken für ein [Genre]-Spiel. Fügen Sie Kampfsysteme, Umgebungsinteraktionen, Fortschritt und Wirtschaft hinzu.",
+    "gameProgression": "Erstellen Sie ein Fortschrittssystem für ein Spiel, einschließlich Level, freischaltbarer Fähigkeiten, Belohnungen und Schwierigkeitskurve.",
+    "appIdea": "Schlagen Sie eine innovative App-Idee vor, die ein reales Problem löst. Fügen Sie Wertversprechen, Zielgruppe und Hauptfunktionen hinzu.",
+    "appFeatures": "Listen und detaillieren Sie die Hauptfunktionen für eine [Kategorie]-App auf. Beschreiben Sie, wie jede Funktion dem Benutzer zugute kommt.",
+    "appUserflow": "Beschreiben Sie die Benutzerreise in einer [Kategorie]-App, von der ersten Nutzung bis zum regelmäßigen Benutzer. Fügen Sie Onboarding, Hauptinteraktionen und Bindung hinzu.",
+    "characterConcept": "Erstellen Sie einen vollständigen Charakter für ein Spiel, einschließlich Name, Alter, Aussehen, Persönlichkeit, Motivationen und Rolle in der Geschichte.",
+    "characterBackstory": "Entwickeln Sie eine detaillierte Ursprungsgeschichte für einen Spielcharakter, einschließlich prägender Ereignisse, Beziehungen und Traumata, die ihre aktuelle Persönlichkeit geformt haben.",
+    "characterAbilities": "Erstellen Sie eine Reihe einzigartiger Fähigkeiten und Kräfte für einen [Genre]-Spielcharakter. Fügen Sie aktive, passive und ultimative Fähigkeiten hinzu.",
+    "uiMockup": "Beschreiben Sie die Benutzeroberfläche für eine [Art von App/Spiel], einschließlich Layout, UI-Elemente, Farbschema und allgemeinen visuellen Stil.",
+    "uiColorScheme": "Erstellen Sie ein Farbschema für eine [Art von App/Spiel], die auf [Zielgruppe] ausgerichtet ist. Fügen Sie primäre, sekundäre und Akzentfarben mit ihren Hexadezimalcodes hinzu.",
+    "uiUserflow": "Detaillieren Sie den Benutzerinteraktionsfluss für eine bestimmte Funktion in einer [Art von App/Spiel], einschließlich Bildschirme, Übergänge und Feedback.",
+    "default": "Generieren Sie eine kreative Idee für ein Projekt."
+  }
+}
